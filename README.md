@@ -1,7 +1,7 @@
 # React Pokemon search
 
 This is a react typescript project
-Using fetch to [https://pokeapi.co/api/v2/pokemon](pokeapi) to retrieve pokemons data
+Using fetch to [pokeapi](https://pokeapi.co/api/v2/pokemon) to retrieve pokemons data
 
 ## Available Scripts
 
